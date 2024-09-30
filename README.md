@@ -1,4 +1,4 @@
-# Mine Alliance - Reinventing a sustainable future for Arizona Mining Industry with AI 🚀
+# Mine Alliance - Reinventing a sustainable future for Arizona Mining Industry with AI 🚀 (Winner) 
 
 An innovative, AI-driven application designed to unite stakeholders across Arizona's mining industry, promoting responsible and sustainable practices.
 
